@@ -128,3 +128,10 @@ p{
 	outline:0;
 	border: 1px solid #97d848;
 }
+
+h1{
+    color:red;
+}
+p{
+    text-decoration:blue ;
+    }
