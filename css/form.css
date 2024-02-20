@@ -5,5 +5,11 @@ h4{
     color:aquamarine;
 }
 p{
-text-decoration:aqua ;
+color:aqua ;
+}
+
+.divfooter{
+    p{
+color: red;
+    }
 }
