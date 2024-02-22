@@ -13,3 +13,10 @@ color:aqua ;
 color: red;
     }
 }
+.botonjs{
+    background-color: blueviolet;
+    color : black;
+    padding: 10px 20px;
+    border :none;
+    cursor: pointer;
+}
