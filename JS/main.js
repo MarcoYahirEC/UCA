@@ -1,3 +1,3 @@
-document.getElementById('boton2').addEventListener('Click',function(){
+document.getElementById('boton2').addEventListener('click',function(){
     alert('La familia');
 })
