@@ -21,9 +21,9 @@ function cambiarcontenido2(){
 }
     function pedirCoca(){
         const pedido = "Coca Cola";
-        const respuesta = "tu pedido de" + pedido + "ha sido enviado";
+        const respuesta = "tu pedido de"+ pedido + "ha sido enviado";
         const elementoRespuesta = document.getElementById("respuesta");
-        elementosRespuesta.textContent = respuesta;
-        elementosRespuesta.style.display="block";
+        elementoRespuesta.textContent = respuesta;
+        elementoRespuesta.style.display="block";
     }
 
