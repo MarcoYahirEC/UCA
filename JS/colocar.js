@@ -18,5 +18,12 @@ function cambiarcontenido2(){
     nuevoparrafo.textContent = "contenido ejemplo";
 
     div.appendChild(nuevoparrafo);
+    function pedirCoca(){
+        const pedido = "Coca Cola";
+        const respuesta = "tu pedido de" + pedido + "ha sido enviado";
+        const elementoRespuesta = document.getElementById("respuesta");
+        elementosRespuesta.textContent = respuesta;
+        elementosRespuesta.style.display="block";
+    }
 
 }
