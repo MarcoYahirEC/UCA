@@ -1,10 +1,8 @@
-function cambiarcontenido(){
-
+function cambiarF(){
     var div = document.getElementById("miDiv");
-
-    div.innerHTML = "<h1>Ejemplo1</h1><p>Ejemplo 2</p>";
-
-}
+    //modificando contenido
+    div.innerHTML = "<h1>Nuevo Titulo hecho con innerHTML</h1><p>Contenido Nuevo con innerHTML</p>";
+  }
 function cambiarcontenido2(){
 
     var div = document.getElementById("miDiv");
