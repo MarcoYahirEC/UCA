@@ -8,5 +8,5 @@ function pedirFinal1(){
   }
   function pedirFinal3(){
     var div = document.getElementById("finales");
-    div.innerHTML = "<p>Vas a la guerra y sales victorioso ademas recibes riquezas y el reconocimiento de que fuiste un guerrero noble</p><button><a href="www.google.com/" target="blank"></button>";
+    div.innerHTML = "<p>Vas a la guerra y sales victorioso ademas recibes riquezas y el reconocimiento de que fuiste un guerrero noble</p><a href="www.google.com/" target="blank"><button>video youtube</button></a>";
   }
