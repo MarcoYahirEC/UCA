@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { id: 1, name: "Juan", age: 25 },
         { id: 2, name: "María", age: 30 },
         { id: 3, name: "Pedro", age: 22 }
+        { id: 4, name: "Diego", age: 24 }
     ];
 
     // Función para mostrar usuarios en la interfaz
